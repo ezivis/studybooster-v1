@@ -4,4 +4,4 @@ exports.viewTask = function(req, res){
 
 exports.addTask = function(req, res){
     res.render('add_task', {});
-}
+};
